@@ -7,8 +7,7 @@
 
 
 function stringToArray(string){
-    let arr = string.split(' ');
-    return arr
+    return string.split(' ')
 }
 
 let str = "I love arrays they are my favorite";
