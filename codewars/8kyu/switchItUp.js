@@ -36,6 +36,8 @@ function switchItUp(number) {
         case 9:
             text = 'Nine';
             break;
+        default:
+            text = 'Unknown number'
     }
     return text
 }
