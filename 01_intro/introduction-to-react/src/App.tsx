@@ -20,6 +20,9 @@ function App() {
             <Rating value={5}/>
             <Acc titleValue={"Users"} collapsed={false}/>
             <PageTitle title={"My friends"}/>
+            <PageTitle title={"My friends 1"}/>
+            <PageTitle title={"My friends 2"}/>
+            <PageTitle title={"My friends 4"}/>
 
 
         </div>
